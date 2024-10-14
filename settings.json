@@ -1,0 +1,5 @@
+"disasexpl.associations": {
+    "**/*.asm": "${fileDirname}/${fileBasenameNoExtension}.disasm.S",
+    "**/*.s": "${fileDirname}/${fileBasenameNoExtension}.disasm.S"
+},
+"disasexpl.useBinaryParsing": true
